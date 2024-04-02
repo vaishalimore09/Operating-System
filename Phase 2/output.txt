@@ -1,0 +1,112 @@
+*---------------------------------------
+*---*-----------------------------------
+*---*---*-------------------------------
+*---*-----------------------------------
+
+JOB ID  : 202
+  Line Limit Exceeded
+IC      : 15
+IR      : P D 6 0 
+TTL     : 25
+TTC     : 14
+TLL     : 4
+LLC     : 4
+
+CAT CAN-EAT RAT-------------------------
+RAT-------------------------------------
+
+JOB ID  : 302
+  No Error
+IC      : 10
+IR      : H - - - 
+TTL     : 10
+TTC     : 10
+TLL     : 2
+LLC     : 2
+
+
+JOB ID  : 102
+  Invalid Page Fault
+IC      : 2
+IR      : L R 3 6 
+TTL     : 7
+TTC     : 1
+TLL     : 2
+LLC     : 0
+
+ABCD------------------------------------
+ABCD------------------------------------
+MATCH-----------------------------------
+
+JOB ID  : 401
+  Time Limit Exceeded
+IC      : 11
+IR      : P D 5 0 
+TTL     : 9
+TTC     : 10
+TLL     : 4
+LLC     : 3
+
+
+JOB ID  : 1503
+  Operand Error
+IC      : 4
+IR      : S R 7 A 
+TTL     : 20
+TTC     : 3
+TLL     : 10
+LLC     : 0
+
+
+JOB ID  : 1403
+  Operation Code Error
+IC      : 9
+IR      : P A 3 0 
+TTL     : 50
+TTC     : 8
+TLL     : 8
+LLC     : 0
+
+
+JOB ID  : 1403
+  Out of Data
+IC      : 1
+IR      : G D 3 0 
+TTL     : 50
+TTC     : 0
+TLL     : 8
+LLC     : 0
+
+SHE SELLS   SEA SHELLS ON---------------
+
+JOB ID  : 402
+  Time Limit Exceeded And Operand Error
+IC      : 5
+IR      : P D 3 F 
+TTL     : 4
+TTC     : 4
+TLL     : 2
+LLC     : 1
+
+SHE SELLS   SEA SHELLS ON---------------
+
+JOB ID  : 403
+  Time Limit Exceeded And Operation Code Error
+IC      : 5
+IR      : P S 4 0 
+TTL     : 4
+TTC     : 4
+TLL     : 2
+LLC     : 1
+
+SHE SELLS   SEA SHELLS ON---------------
+
+JOB ID  : 405
+  Time Limit Exceeded
+IC      : 4
+IR      : S R 3 2 
+TTL     : 3
+TTC     : 3
+TLL     : 2
+LLC     : 1
+
